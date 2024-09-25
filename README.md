@@ -1,4 +1,4 @@
-# High Yield Learner
+# CurateRL
 Reinforcement learning for data curation.
 
 We can consider data curation via reinforcement learning, and AI model that not only learns, but learns which data to learn from based on past reward (reinforcement learning).
